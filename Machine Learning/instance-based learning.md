@@ -1,0 +1,3 @@
+Instance-based learning (sometimes called _memory-based learning_) is a family of learning algorithms that, instead of performing explicit [[generalization]], compares new problem instances with instances seen in training, which have been stored in memory.
+
+The system learns the examples by heart, then **generalizes*** to new cases by using a **similarity measure** to compare them to the **learned examples** (or a subset of them).

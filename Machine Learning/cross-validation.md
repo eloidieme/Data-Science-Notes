@@ -1,0 +1,3 @@
+Cross-validation consist in using many small validation sets. Each model is evaluated once per validation set after it is trained on the rest of the data. By averaging out all the evaluations of a model, you get a much more accurate measure of its perfomance. There is a drawback, however: the training time is multiplied by the number of validation sets.
+
+![[cross_validation.png]]Illustration of cross-validation.

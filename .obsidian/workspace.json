@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "dd1aa7ccde0e2df0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae6cc473a7f70017",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "691eb378d0135561",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Reliability/Model-based Testing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93d80bea9ce8bbed",
+    "type": "split",
+    "children": [
+      {
+        "id": "f490c234f4dd86eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0482055f97b26b30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d9618b0c29692eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c80d62d58141066",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5
+  },
+  "right": {
+    "id": "b5a2dbc31f88b80d",
+    "type": "split",
+    "children": [
+      {
+        "id": "09fd2736326a12c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22e8477c45e88339",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Software Reliability/Model-based Testing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d43234f737fba9be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Software Reliability/Model-based Testing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "838e3d9d8ca539e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "180574c1b60534db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Software Reliability/Model-based Testing.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "691eb378d0135561",
+  "lastOpenFiles": [
+    "Software Reliability/Glass-box Testing.md",
+    "Software Reliability/Model-based Testing.md",
+    "Software Reliability/Requirements Testing.md",
+    "Machine Learning/adaboost.md",
+    "Machine Learning/boosting.md",
+    "Software Reliability/Black-box Testing.md",
+    "Machine Learning/stratified sampling.md",
+    "Fullstack/deployment.md",
+    "Software Reliability/Assignment 1.md",
+    "Software Reliability/images/Pasted image 20240125174251.png",
+    "Software Reliability/images/Pasted image 20240125173929.png",
+    "Software Reliability/images/Pasted image 20240205132942.png",
+    "Software Reliability/images/Pasted image 20240129141814.png",
+    "Software Reliability/images/Pasted image 20240125184120.png",
+    "Software Reliability/images/Pasted image 20240118115007.png",
+    "Software Reliability/images/Pasted image 20240118115758.png",
+    "Software Reliability/images/Pasted image 20240118234124.png",
+    "Machine Learning/random forests.md",
+    "Machine Learning/project checklist.md",
+    "Machine Learning/polynomial regression.md",
+    "Machine Learning/random subspaces.md",
+    "Machine Learning/random patches.md",
+    "Machine Learning/bagging.md",
+    "Machine Learning/images/Pasted image 20240205185808.png",
+    "Machine Learning/ensemble learning.md",
+    "Machine Learning/pasting.md",
+    "Quant list.md",
+    "Derivatives",
+    "Fullstack",
+    "README.md",
+    "Software Engineering Fundamentals/Continuous Integration.md",
+    "Software Engineering Fundamentals/APIs for Beginners.md",
+    "Machine Learning/support vector machine.md",
+    "Software Reliability/images",
+    "Machine Learning/lasso.md",
+    "Machine Learning/ridge.md",
+    "Machine Learning/dual svm problem.md",
+    "Software Engineering Fundamentals",
+    "dossier sans titre",
+    "Machine Learning/clustering.md",
+    "Software Reliability",
+    "Machine Learning/images/tree.png",
+    "Deep Learning/images",
+    "Deep Learning",
+    "images",
+    "Machine Learning/images"
+  ]
+}

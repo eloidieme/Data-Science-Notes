@@ -1,0 +1,3 @@
+In a famous 1996 paper, David Wolpert demonstrated that if you make absolutely no assumption about the data, then there is no reason to prefer one model over any other. This is called the **No Free Lunch (NFL) theorem**.
+
+This means that without making any assumptions about the data, one needs to evaluate every single model. In practice one makes some reasonable assumptions about the data and evaluates only a few reasonable models.
